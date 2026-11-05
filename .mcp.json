@@ -1,0 +1,20 @@
+{
+	"mcpServers": {
+		"psmcp": {
+			"type": "stdio",
+			"command": "pwsh",
+			"args": [
+				"-NoLogo",
+				"-NoProfile",
+				"-File",
+				"C:\\Users\\Hollanjs.TARTARUS\\dev\\mcp\\PSMCP/PSMCP.ps1"
+			],
+			"tools": [
+				"*"
+			],
+			"env": {
+				"PSMCP_ROOT": "C:\\Users\\Hollanjs.TARTARUS\\dev\\mcp\\PSMCP"
+			}
+		}
+	}
+}
