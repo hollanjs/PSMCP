@@ -7,13 +7,13 @@
 				"-NoLogo",
 				"-NoProfile",
 				"-File",
-				"C:\\Users\\Hollanjs.TARTARUS\\dev\\mcp\\PSMCP/PSMCP.ps1"
+				"C:\\Path\\to\\you\\project\\root\\PSMCP.ps1"
 			],
 			"tools": [
 				"*"
 			],
 			"env": {
-				"PSMCP_ROOT": "C:\\Users\\Hollanjs.TARTARUS\\dev\\mcp\\PSMCP"
+				"PSMCP_ROOT": "C:\\Path\\to\\you\\project\\root"
 			}
 		}
 	}
